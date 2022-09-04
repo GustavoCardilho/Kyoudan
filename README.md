@@ -18,10 +18,10 @@
   
  </div>
 
-  <img height="130em" align="left"
+  <img height="110em" align="left"
        src="https://github-readme-stats.vercel.app/api?username=Kyoudan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
     
-  <img height="130em" align="right"
+  <img height="110em" align="right"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Kyoudan&repo=Node-JS&cache_seconds=86400&theme=midnight-purple" />
   
  </div>
