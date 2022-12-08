@@ -10,35 +10,20 @@
  <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kyoudano&color=red" alt="Profile views" /> </p>
   <a href="https://github.com/Kyoudan">
-  <img height="500em" align="center"
+  <img height="240em" align="center"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoudan&langs_count=7&theme=midnight-purple"/>
 <div>
   
-  <div> <hr> </div>
-  
  </div>
 
-  <img height="110em" align="left"
+  <img height="140em" align="center"
        src="https://github-readme-stats.vercel.app/api?username=Kyoudan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
     
    <a href="https://github.com/Kyoudan/Node-JS">
-  <img height="110em" align="right"
+  <img height="140em" align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Kyoudan&repo=Node-JS&cache_seconds=86400&theme=midnight-purple" />
     </a>
-  
- </div>
- <div>
-   <div>
-       <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <hr>
-   </div>
 
- </div>
    
   
   <div>
