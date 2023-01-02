@@ -43,6 +43,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![Vue](https://img.shields.io/badge/-VueJS-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
 
 <br />
