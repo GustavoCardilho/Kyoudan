@@ -1,0 +1,38 @@
+{
+    "workbench.colorTheme": "OM Theme (Night Owl Italic)",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "codesnap.boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px",
+    "codesnap.backgroundColor": "#000000",
+    "codesnap.transparentBackground": true,
+    "codesnap.containerPadding": "0em",
+    "prettier.tabWidth": 4,
+    "explorer.compactFolders": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "explorer.confirmDragAndDrop": false,
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma"
+    },
+    "dart.previewFlutterUiGuides": true,
+    "files.autoSave": "afterDelay",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    },
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "window.zoomLevel": 1,
+    "[php]": {},
+    "material-icon-theme.files.associations": {
+        "*.graphql.ts": "graphql"
+    }
+}
