@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9080ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=afa3ff4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Cardilho;I'm+15+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=afa3ff4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Cardilho;I'm+16+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -53,13 +53,17 @@
 <br />
 <br />
 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-1c1c1c?style=for-the-badge&logo=typescript&labelColor=1c1c1c&textColor=0D1117)&nbsp;
+<h3 align="center">Main skills:</h3>
+<br/>
+<div align="center">
+   <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="42px" height="42px"></a>
+   <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="42px" height="42px"></a>
+   <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="42px" height="42px"></a>
+   <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="42px" height="42px"></a>
+   <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="42px" height="42px"></a>
+</div>
 
+<hr/>
 <br />
 <br />
 <br />
@@ -81,6 +85,8 @@
 ![Apollo](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)&nbsp;
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
 
 <br />
 <br />
@@ -90,6 +96,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-1c1c1c?style=for-the-badge&logo=mysql&labelColor=1c1c1c)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1c1c1c?style=for-the-badge&logo=mongodb&labelColor=1c1c1c)&nbsp;
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
 <br />
@@ -97,8 +104,9 @@
 <br />
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-1c1c1c?style=for-the-badge&logo=python&labelColor=1c1c1c&logoColor=2f7ff7)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fc3f0a)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br />
 <br />
