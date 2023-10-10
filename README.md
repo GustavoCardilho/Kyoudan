@@ -14,7 +14,7 @@
 <br />
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kyoudan&bg_color=0d1117&color=9080ff&line=9180ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyoudan&bg_color=0d1117&color=9080ff&line=9180ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 <br />
 <br />
@@ -104,9 +104,8 @@
 <br />
 
 ### Studying in this moment:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fc3f0a)&nbsp;
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br />
 <br />
