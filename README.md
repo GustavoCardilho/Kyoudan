@@ -23,7 +23,7 @@
 <div align="center"> 
 
 ![Any](https://github-readme-streak-stats.herokuapp.com/?user=Kyoudan&theme=tokyonight)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kyoudan)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kyoudan)](https://github.com/anuraghazra/github-readme-stats) */ -->
 
 </div>
 
