@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kyoudan&show_icons=true&count_private=true&hide_border=true&title_color=afa3ff4&icon_color=afa3ff4&text_color=9080ff&bg_color=0d1117" alt="Kyoudan Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoudan&layout=compact&hide_border=true&title_color=afa3ff4&text_color=9080ff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoCardilho&show_icons=true&count_private=true&hide_border=true&title_color=afa3ff4&icon_color=afa3ff4&text_color=9080ff&bg_color=0d1117" alt="GustavoCardilho Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCardilho&layout=compact&hide_border=true&title_color=afa3ff4&text_color=9080ff&bg_color=0d1117" />
 </div>
 
 <br />
@@ -14,7 +14,7 @@
 <br />
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyoudan&bg_color=0d1117&color=9080ff&line=9180ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCardilho&bg_color=0d1117&color=9080ff&line=9180ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 <br />
 <br />
@@ -22,8 +22,8 @@
 
 <div align="center"> 
 
-![Any](https://github-readme-streak-stats.herokuapp.com/?user=Kyoudan&theme=tokyonight)
-<!--  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kyoudan)](https://github.com/anuraghazra/github-readme-stats) */ -->
+![Any](https://github-readme-streak-stats.herokuapp.com/?user=GustavoCardilho&theme=tokyonight)
+<!--  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GustavoCardilho)](https://github.com/anuraghazra/github-readme-stats) */ -->
 
 </div>
 
@@ -33,7 +33,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kyoudan&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GustavoCardilho&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
   
@@ -114,6 +114,6 @@
 <br />
 <br />
 
-![Snake animation](https://github.com/Kyoudan/Kyoudan/blob/output/github-contribution-grid-snake.svg?=center=true&vCenter=true)
+![Snake animation](https://github.com/GustavoCardilho/GustavoCardilho/blob/output/github-contribution-grid-snake.svg?=center=true&vCenter=true)
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9080ff&height=120&section=footer"/>
